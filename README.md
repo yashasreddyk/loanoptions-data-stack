@@ -1,5 +1,14 @@
 # Project Neo Simulator: LoanOptions.ai Data Stack Demonstration
 
+## Visual Showcase
+### Streamlit Dashboard
+![Streamlit Dashboard Part 1](Images/Streamlit1.png)
+![Streamlit Dashboard Part 2](Images/Streamlit2.png)
+
+### PowerBI Dashboard (Alternative Delivery)
+![PowerBI Dashboard Part 1](Images/powerBI1.png)
+![PowerBI Dashboard Part 2](Images/powerBI2.png)
+
 ## Overview
 This project is a complete, end-to-end demonstration of building a modern data stack from scratch, specifically tailored to the business model and technological ecosystem of **LoanOptions.ai**. 
 
